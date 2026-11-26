@@ -13,6 +13,6 @@
   "modulos": [
     {"titulo": "A mentalidade", "resumo": "Construir ficou barato. Julgar ficou caro. Você aprende a olhar a ideia com os olhos de quem vai escolher entre dez iguais.", "aulas": [1, 2, 3, 4, 5, 6]},
     {"titulo": "Vale a pena construir?", "resumo": "As perguntas que separam a ideia boa da ideia que só é possível: dor, prazo de validade, cópia, dados e rotina.", "aulas": [7, 8, 9, 10, 11, 12]},
-    {"titulo": "Lançar e crescer", "resumo": "Distribuição, uma frase que explica tudo, valor em dois minutos e teste com usuários simulados antes do público real.", "aulas": [13, 14, 15, 16, 17, 18]}
+    {"titulo": "Lançar e crescer", "resumo": "Distribuiçêo, uma frase que explica tudo, valor em dois minutos e teste com usuários simulados antes do público real.", "aulas": [13, 14, 15, 16, 17, 18]}
   ]
 }

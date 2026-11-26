@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Gera as cenas de tools/cenas.tsv (id<TAB>descrição), 4 em paralelo, pulando as que já existem.
+# Gera as cenas de tools/cenas.tsv (id<TAB>descriçêo), 4 em paralelo, pulando as que já existem.
 cd "$(dirname "$0")/.."
 G=~/.claude/skills/formato-curso-v6/scripts/gerar-cena.py
 while IFS=$'\t' read -r id desc; do
