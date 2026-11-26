@@ -2,7 +2,7 @@
 // para o details.complementar do v6 (sem Tailwind, sem SVG, sem emoji decorativo).
 const limpa = s => String(s)
   .replace(/\s+class="[^"]*"/g, '')
-  .replace(/\s+data-inema-[a-z-]+="[^"]*"/g, '');
+  .replace(/\s+data-ARCKHÉ-[a-z-]+="[^"]*"/g, '');
 const li = arr => `<ul>${arr.map(i => `<li>${limpa(i)}</li>`).join('')}</ul>`;
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 

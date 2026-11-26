@@ -1,4 +1,4 @@
-  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Produtos na era da IA v6 · INEMA.CLUB PRO'
+  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Produtos na era da IA v6 · ARCKHÉ AI PRO'
 2770 unidades de texto (298551 caracteres) · Codex pela assinatura (gpt-6-luna) · reserva Groq desligada
   en rodada 1 lote 1/98: 13 ok, 0 rejeitadas
   en rodada 1 lote 2/98: 25 ok, 0 rejeitadas
@@ -99,7 +99,7 @@
   en rodada 1 lote 97/98: 40 ok, 0 rejeitadas
   en rodada 1 lote 98/98: 6 ok, 0 rejeitadas
   en rodada 2 lote 1/1: 1 ok, 0 rejeitadas
-  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Produtos na era da IA v6 · INEMA.CLUB PRO'
+  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Produtos na era da IA v6 · ARCKHÉ AI PRO'
 en/: curso.html, landing.html, index.html, assets/curso.js
   es rodada 1 lote 1/98: 13 ok, 0 rejeitadas
   es rodada 1 lote 2/98: 25 ok, 0 rejeitadas
@@ -199,6 +199,6 @@ en/: curso.html, landing.html, index.html, assets/curso.js
   es rodada 1 lote 96/98: 40 ok, 0 rejeitadas
   es rodada 1 lote 97/98: 40 ok, 0 rejeitadas
   es rodada 1 lote 98/98: 6 ok, 0 rejeitadas
-  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Produtos na era da IA v6 · INEMA.CLUB PRO'
+  aviso: 1 trechos de texto fora de bloco traduzível, ex.: 'Produtos na era da IA v6 · ARCKHÉ AI PRO'
 es/: curso.html, landing.html, index.html, assets/curso.js
 chamadas pela assinatura do Codex: 197; reserva Groq usada: 0 lote(s)

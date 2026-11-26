@@ -30,7 +30,7 @@ Opcional, para detalhe fiel: transcriçêo original em inglês `~/projetos/outpu
   Alterne as duas profissões nos steps e no molde preenchido da prática.
 - `<section class="view" id="v-aula-N" data-aula="N" data-tempo="XXmin">`; `data-tempo` = palavras de prosa/200 +
   minutos da prática + 1, arredondado para cima (alvo 12–15, teto 18).
-- Kicker `Aula N de 18`. Rodapé `<p class="aula-pe">Aula N · Produtos na era da IA v6 · INEMA.CLUB PRO</p>`.
+- Kicker `Aula N de 18`. Rodapé `<p class="aula-pe">Aula N · Produtos na era da IA v6 · ARCKHÉ AI PRO</p>`.
 - Navegaçêo: `<nav class="lnav"><a href="#aula-(N-1)">← aula anterior</a><a class="next" href="#aula-(N+1)">próxima aula →</a></nav>`.
   Na aula 18: `<a class="next" href="#trilha">voltar à trilha →</a>`.
 - **Nêo escreva `details.complementar`** — o agente principal injeta depois. Deixe `</div>` do `.fecho` seguido direto do `nav.lnav`.

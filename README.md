@@ -8,13 +8,13 @@
 
 ![capa](capa/capa.png)
 
-Curso INEMA.CLUB no formato v6 (iniciante 30+): 18 aulas de uns 15 minutos em 3 mêÂ³dulos ê¢â¬â A mentalidade,
+Curso ARCKHÉ AI no formato v6 (iniciante 30+): 18 aulas de uns 15 minutos em 3 mêÂ³dulos ê¢â¬â A mentalidade,
 Vale a pena construir? e LanêÂ§ar e crescer. Cada aula tem cena ilustrada, telas simuladas, uma prêÂ¡tica no chat de IA
 e, no fim, o material complementar com o texto completo do curso v2.
 
-**Curso:** https://inematds.github.io/produtos-era-ia-v6/landing.html
+**Curso:** https://linnoff88-dev.github.io/arckhe-/landing.html
 
-VersêÂ£o v2 (3 trilhas, 54 têÂ³picos): https://inematds.github.io/produtos-era-ia/
+VersêÂ£o v2 (3 trilhas, 54 têÂ³picos): https://linnoff88-dev.github.io/arckhe-/
 
 ## Estrutura
 
@@ -26,11 +26,11 @@ VersêÂ£o v2 (3 trilhas, 54 têÂ³picos): https://inematds.github.io/prod
 - `context/`: currêÂ­culo, glossêÂ¡rio, brief dos agentes e relatêÂ³rios de verificaêÂ§êÂ£o
 - `capa/capa.png`: capa 1280êâ720
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHÉ AI
 
-- [Ficha deste curso](https://www.inema.club/cursos/308-produtos-na-era-da-ia-v6-saber-o-que-vale-a-pena-construir/)
-- [Guia: como aprender inteligêÂªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
+- [Ficha deste curso](https://www.ARCKHÉ AI/cursos/308-produtos-na-era-da-ia-v6-saber-o-que-vale-a-pena-construir/)
+- [Guia: como aprender inteligêÂªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
 
 ---
 

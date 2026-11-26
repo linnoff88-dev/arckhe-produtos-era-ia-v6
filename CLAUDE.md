@@ -3,7 +3,7 @@
 Curso **Produtos na era da IA v6** (formato-curso-v6, perfil nêo técnico). Currículo e regras: `context/curriculo.md`.
 Fonte: curso v2 em `~/projetos/produtos-era-ia` (nêo editar o v2 a partir daqui).
 
-- Repo `inematds/produtos-era-ia-v6`, autor dos commits `inematds <inematds@gmail.com>`. GitHub Pages da raiz; `index.html` redireciona para `landing.html`.
+- Repo `linnoff88-dev/produtos-era-ia-v6`, autor dos commits `linnoff88-dev <linnoff88-dev@gmail.com>`. GitHub Pages da raiz; `index.html` redireciona para `landing.html`.
 - Editar só `aulas/aula-N.html`. Depois: `node tools/complementar.mjs --injeta` → `montar-curso.py .` → `traduzir-curso.py . en es` → auditar PT/EN/ES.
 - Glossário fixo dos termos (`.gterm`): `context/glossario.json`. Glossário de traduçêo: `i18n/glossario.json`.
 - Versêo em `VERSION` + `CHANGELOG.md` (semver da regra global: minor carrega o patch).
